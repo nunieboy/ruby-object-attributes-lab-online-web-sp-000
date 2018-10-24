@@ -9,7 +9,7 @@ class Person
   def job= (work)
     @job = work
   end
-  # def job
-  #   @trabaho
-  # end
+  def job
+    @job
+  end
 end
