@@ -6,10 +6,10 @@ class Person
     @name
   end
 
-  def job= (work)
-    @trabaho = work
-  end
-  def job
+  def job=
     @trabaho
   end
+  # def job
+  #   @trabaho
+  # end
 end
