@@ -7,7 +7,7 @@ class Person
   end
 
   def job= (work)
-    @trabaho
+    @trabaho = work
   end
   # def job
   #   @trabaho
